@@ -1,0 +1,8 @@
+/* For additional control over the layout of your content, you can have a CSS Grid within a CSS Grid.
+
+Set the display property of your .heading selector to grid. */
+
+.heading {
+	display: grid;
+	grid-column: 2 / 3;
+}

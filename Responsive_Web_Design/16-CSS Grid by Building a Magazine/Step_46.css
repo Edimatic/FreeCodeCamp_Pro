@@ -1,0 +1,7 @@
+/* The subtitle also needs to be styled. Create a .hero-subtitle selector and give it a font-size property set to 2.4rem, a color property set to orangered, and a text-align property set to center. */
+
+.hero-subtitle {
+  font-size: 2.4rem;
+  color: orangered;
+  text-align: center;
+}

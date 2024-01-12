@@ -1,0 +1,6 @@
+/* Create a .lists selector and set the list-style-type property to none. This will get rid of the bullet points on the list items. */
+
+
+.lists {
+  list-style-type: none;
+}

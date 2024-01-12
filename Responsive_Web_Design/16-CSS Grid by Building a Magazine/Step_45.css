@@ -1,0 +1,7 @@
+/* Create a .hero-title selector and give it a text-align property set to center, a color property set to orangered and a font-size property set to 8rem. */
+
+.hero-title {
+	text-align: center;
+	color: orangered;
+	font-size: 8rem;
+}

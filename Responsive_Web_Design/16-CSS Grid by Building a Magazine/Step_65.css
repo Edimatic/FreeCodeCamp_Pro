@@ -1,0 +1,9 @@
+/* Now it's time to style your third section. Note that it has the text and text-with-images values for the class attribute, which means it is already inheriting the styles from your .text rule.
+
+Create a .text-with-images selector and set the display property to grid.
+*/
+
+
+.text-with-images {
+  display: grid;
+}

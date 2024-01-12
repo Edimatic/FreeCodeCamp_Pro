@@ -1,0 +1,9 @@
+/* The ::first-letter pseudo-selector allows you to target the first letter in the text content of an element.
+
+Create a .first-paragraph::first-letter selector and set the font-size property to 6rem. Also give it a color property set to orangered to make it stand out. */
+
+
+.first-paragraph::first-letter {
+  font-size: 6rem;
+  color: orangered;
+}
