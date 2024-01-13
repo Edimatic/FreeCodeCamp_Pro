@@ -1,0 +1,8 @@
+/* Create a body selector. Set the font-family property to Baskervville, with a fallback of serif. Set the color property to linen and the background-color property to rgb(20, 30, 40). */
+
+
+body {
+  font-family: 'Baskervville', serif;
+  color: linen;
+  background-color: rgb(20, 30, 40);
+}

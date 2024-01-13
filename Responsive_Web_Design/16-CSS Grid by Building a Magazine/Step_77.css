@@ -1,0 +1,13 @@
+/* Now that the magazine layout is finished, you need to make it responsive.
+
+Start with a @media query for only screen with a max-width of 720px. Inside, create an .image-wrapper selector and give it a grid-template-columns property of 1fr.
+
+This will collapse the three images into one column on smaller screens. */
+
+
+@media only screen and (max-width: 720px) {
+
+.image-wrapper {
+  grid-template-columns: 1fr;
+}
+}
