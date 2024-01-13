@@ -1,0 +1,12 @@
+/*  Now give the @keyframes wheel rule a 100% selector. Within that, set the transform to rotate(360deg). By doing this, your animation will now complete a full rotation. */
+
+
+@keyframes wheel {
+   0% {
+     transform: rotate(0deg);
+   }
+   100% {
+     transform: rotate(360deg);
+   }
+
+}

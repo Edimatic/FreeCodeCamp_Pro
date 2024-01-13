@@ -1,0 +1,14 @@
+/*  The transform-origin property is used to set the point around which a CSS transformation is applied. For example, when performing a rotate (which you will do later in this project), the transform-origin determines around which point the element is rotated.
+
+Give the .line selector a transform-origin property of 0% 0%. This will offset the origin point by 0% from the left and 0% from the top, setting it to the top left corner of the element. */
+
+
+.line {
+  background-color: black;
+  width: 50%;
+  height: 2px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-origin: 0% 0%;
+}

@@ -1,0 +1,8 @@
+/* Create a selector to target your second .line element. Set the transform property to rotate(60deg).
+
+Remember that the transform property allows you to manipulate the shape of an element. In this case, using the rotate(60deg) value will rotate the element around its transform-origin point by 60 degrees clockwise. */
+
+
+.line:nth-of-type(2) {
+  transform: rotate(60deg);
+}

@@ -1,0 +1,18 @@
+/* Using the same pattern, create a separate selector for the third .line, the fourth .line, the fifth .line, and the sixth .line.
+
+Set the transform property for the third .line to rotate(120deg), the fourth to rotate(180deg), the fifth to rotate(240deg), and the sixth to rotate(300deg). */
+
+
+
+.line:nth-of-type(3) {
+  transform: rotate(120deg);
+}
+.line:nth-of-type(4) {
+  transform: rotate(180deg);
+}
+.line:nth-of-type(5) {
+  transform: rotate(240deg);
+}
+.line:nth-of-type(6) {
+  transform: rotate(300deg);
+}
