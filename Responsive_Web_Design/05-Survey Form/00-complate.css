@@ -1,0 +1,63 @@
+/* Complate CSS Code */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control,
+.input-checkbox,
+.input-radio,
+.input-textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+  box-sizing: border-box;
+}
+
+.input-checkbox,
+.input-radio {
+  margin-right: 5px;
+}
+
+.input-textarea {
+  resize: vertical;
+}
+
+.submit-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}
+
+.clue {
+  font-style: italic;
+}
