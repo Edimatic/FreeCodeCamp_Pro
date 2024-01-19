@@ -1,0 +1,17 @@
+/* In order to better visualize how your elements are sized, adding a border can be helpful.
+
+Give your .gallery element a width of 50% and a border set to 5px solid red.
+
+Then give your img elements a width of 100%, padding set to 5px, and a border set to 5px solid blue. */
+
+
+.gallery {
+  border: 5px solid red;
+  width: 50%;
+}
+
+img {
+  width: 100%;
+  border: 5px solid blue;
+  padding: 5px;
+}
