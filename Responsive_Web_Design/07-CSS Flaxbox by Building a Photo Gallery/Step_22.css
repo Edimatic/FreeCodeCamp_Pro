@@ -1,0 +1,11 @@
+/* Smooth out your images a bit by giving the .gallery img selector a border-radius property with 10px set as the value. */
+
+
+
+.gallery img {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
